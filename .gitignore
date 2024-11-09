@@ -1,0 +1,4 @@
+# ignora los archivos VSCODE
+.vscode
+# ignora los archivos de entorno
+.Env
